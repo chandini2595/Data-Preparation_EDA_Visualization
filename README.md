@@ -1,7 +1,11 @@
 ## NYC Taxi Fare Prediction Analysis
-Overview
+**Overview**
+
 This project analyzes NYC Yellow Taxi trip data to predict fare amounts using AutoML and traditional machine learning approaches. We explore trip patterns, fare relationships, and predictive modeling through comprehensive data analysis and visualization.
-Dataset
+
+
+**Dataset**
+
 We used the NYC Yellow Taxi Trip Data sample containing:
 
 Pickup/dropoff timestamps
@@ -11,7 +15,9 @@ Passenger counts
 Payment types
 Rate codes
 
-Analysis Pipeline
+
+**Analysis Pipeline**
+
 1. Exploratory Data Analysis & Visualization
 Created comprehensive visualizations to understand patterns in:
 Basic Trip Metrics
@@ -92,7 +98,7 @@ Successfully handled categorical variables
 
 
 
-Dependencies
+**Dependencies**
 
 pandas
 numpy
