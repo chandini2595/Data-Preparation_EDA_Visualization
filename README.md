@@ -4,7 +4,7 @@
 This project analyzes NYC Yellow Taxi trip data to predict fare amounts using AutoML and traditional machine learning approaches. We explore trip patterns, fare relationships, and predictive modeling through comprehensive data analysis and visualization.
 
 
-**Dataset**
+## Dataset
 
 We used the NYC Yellow Taxi Trip Data sample containing:
 
@@ -16,9 +16,10 @@ Payment types
 Rate codes
 
 
-**Analysis Pipeline**
+## Analysis Pipeline**
 
-1. Exploratory Data Analysis & Visualization
+**1. Exploratory Data Analysis & Visualization**
+
 Created comprehensive visualizations to understand patterns in:
 Basic Trip Metrics
 
@@ -47,7 +48,8 @@ Trip distance patterns
 Speed variations
 Duration trends by time of day
 
-2. Data Preprocessing
+**2. Data Preprocessing**
+
 Implemented comprehensive data preparation:
 
 Feature engineering from timestamps
@@ -56,7 +58,8 @@ Outlier removal
 Feature scaling and normalization
 Categorical variable encoding
 
-3. AutoML Implementation
+**3. AutoML Implementation**
+
 Used PyCaret for automated machine learning:
 
 Automated feature selection
@@ -65,7 +68,8 @@ Hyperparameter tuning
 Ensemble model creation
 Performance evaluation
 
-Results
+**Results**
+
 Model Performance
 The analysis generated multiple models with:
 
@@ -74,7 +78,7 @@ Cross-validation results
 Feature importance rankings
 Prediction accuracy metrics
 
-Key Findings
+**Key Findings**
 
 Trip Patterns:
 
@@ -100,9 +104,9 @@ Successfully handled categorical variables
 
 **Dependencies**
 
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-pycaret 
+1. pandas
+2. numpy
+3. scikit-learn
+4. matplotlib
+5. seaborn
+6. pycaret 
