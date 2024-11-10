@@ -68,7 +68,7 @@ Hyperparameter tuning
 Ensemble model creation
 Performance evaluation
 
-**Results**
+## Results
 
 Model Performance
 The analysis generated multiple models with:
@@ -78,23 +78,23 @@ Cross-validation results
 Feature importance rankings
 Prediction accuracy metrics
 
-**Key Findings**
+## Key Findings
 
-Trip Patterns:
+**Trip Patterns:**
 
 Identified peak hours and busy days
 Found common trip durations
 Analyzed speed patterns
 
 
-Fare Insights:
+**Fare Insights:**
 
 Strong correlation between distance and fare
 Time of day impact on pricing
 Payment method preferences
 
 
-Model Performance:
+**Model Performance:**
 
 Achieved competitive RMSE scores
 Identified most important predictive features
