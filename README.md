@@ -109,4 +109,6 @@ Successfully handled categorical variables
 3. scikit-learn
 4. matplotlib
 5. seaborn
-6. pycaret 
+6. pycaret
+
+Colab file: https://colab.research.google.com/drive/1ial3VAHHzQ0bQq1pVxBYr5Y8MeUtA8Vc?usp=sharing
