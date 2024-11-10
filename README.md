@@ -16,7 +16,7 @@ Payment types
 Rate codes
 
 
-## Analysis Pipeline**
+## Analysis Pipeline
 
 **1. Exploratory Data Analysis & Visualization**
 
