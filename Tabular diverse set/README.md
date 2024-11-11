@@ -112,4 +112,5 @@ Successfully handled categorical variables
 6. pycaret
 
 Colab file: https://colab.research.google.com/drive/1ial3VAHHzQ0bQq1pVxBYr5Y8MeUtA8Vc?usp=sharing
+
 Youtube video: https://youtu.be/dCf3p4DFCcI
